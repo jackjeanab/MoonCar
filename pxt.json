@@ -4,7 +4,7 @@
     "description": "MoonCar package",
     "license": "MIT",
     "dependencies": {
-        "core": "*"       
+             
     },
     "files": [
         "README.md",
