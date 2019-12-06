@@ -4,8 +4,7 @@
     "description": "MoonCar package",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "bluetooth": "*"
+        "core": "*"       
     },
     "files": [
         "README.md",
